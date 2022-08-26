@@ -1,5 +1,5 @@
 # classmanager-student-teacher-portal
-A Student-Teacher Portal built using HTML, CSS, Python and Django
+A Student-Teacher Portal built using HTML, CSS, js,react,node js
 
 Class Manager is a Student-Teacher Portal where techers and student can sign up and teachers can add students in their class.
 
